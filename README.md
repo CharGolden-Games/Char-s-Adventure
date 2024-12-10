@@ -1,2 +1,1 @@
-# Char-s-Adventure
-The public Char's Adventure Source Code!
+TODO: When demo ready to ship, update and publicise this repo!
