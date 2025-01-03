@@ -7,6 +7,7 @@ Welcome to Char's first game! Char ends up in a WACKY situation kickstarted by M
 This demo will contain 4 areas
 
 The starting areas (Char Isle | Micheal's Forest)
+
 Half of act 1 (Tridite City | Milton's Creaks)
 
 ## CREDITS
