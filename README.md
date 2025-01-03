@@ -34,4 +34,4 @@ Then simply run lime test windows!
 
 `-debug` | Forces debug options on.
 
-`-livereload` | Makes a funny message appear on run (Debug builds, and auto triggers with `lime test <platform> -debug`)
+`-livereload` | Makes a funny message appear on run (Debug builds only, auto triggers with `lime test <platform> -debug`)
