@@ -263,7 +263,8 @@ class Project extends HXProject {
 		var creExclude:Array<String> = EXCLUDE_ASSETS;
 		creExclude.push('pack.json');
 		creExclude.push('pack.png');
-		addAssetPath('assets/RhythmCharts', 'assets/cre', 'default', ['*'], creExclude, true);
+		addAssetPath('assets/RhythmCharts', 'assets/cre', 'cre', ['*'], creExclude, true);
+		addAssetPath('source/cre/assets', 'assets', 'cre', ['*'], creExclude, true);
 		if (isDesktop())
 		{
 			addAssetPath('save_editor/assets', 'assets/save_editor/Resources', 'default', ['*'], EXCLUDE_ASSETS, false);
