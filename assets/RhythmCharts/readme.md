@@ -1,0 +1,1 @@
+This in Char's Adventure (Working Title)'s Source assets folder should be added in the game like so in the project.hxp file under "setupPaths()" `addAssetPath('assets/RhythmCharts', 'assets/cre', 'default', ['*'], EXCLUDE_ASSETS, true);`

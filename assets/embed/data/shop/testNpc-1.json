@@ -1,0 +1,62 @@
+{
+    "char": "Smith (Tridite Form)",
+    "dialogue": [
+        {
+            "dialogue": "Test Dialogue 1",
+            "image": "dialoguePortraits/smith",
+            "imagePostFix": "tridite",
+            "id": 0
+        },
+        {
+            "dialogue": "Test Dialogue 2: This is a test item",
+            "image": "dialoguePortraits/smith",
+            "imagePostFix": "Tridite",
+            "id": 1,
+            "itemSpecific": 1
+        },
+        {
+            "dialogue": "Test Dialogue 3",
+            "image": "dialoguePortraits/smith",
+            "imagePostFix": "tridite",
+            "id": 2
+        },
+        {
+            "dialogue": "The rare Test Dialogue 4!",
+            "image": "dialoguePortraits/smith",
+            "imagePostFix": "tridite",
+            "id": 3
+        }
+    ],
+    "shopRows": [
+        [
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 1",
+                "price": 100,
+                "desc": "This is a test item",
+                "id": 0
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 2",
+                "price": 200,
+                "desc": "This is a test item",
+                "id": 1
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 3",
+                "price": 300,
+                "desc": "This is a test item",
+                "id": 2
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 4",
+                "price": 400,
+                "desc": "This is a test item",
+                "id": 3
+            }
+        ]
+    ]
+}

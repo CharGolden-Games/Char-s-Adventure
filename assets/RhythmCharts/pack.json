@@ -1,0 +1,8 @@
+{
+	"name": "Char's Adventure (Working Title) Rhythm Minigame Charts",
+	"description": "The official charts for the Rhythm minigames in Char's Adventure (Working Title)",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"iconFramerate": 10
+}

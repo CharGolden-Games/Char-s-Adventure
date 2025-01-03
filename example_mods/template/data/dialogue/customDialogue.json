@@ -1,0 +1,43 @@
+{
+    "name": "Custom Character",
+    "dialogue": [
+        {
+            "dialogue": "This is where custom dialogue goes",
+            "name": "This overwrites the name on the dialogue box!",
+            "image": "test",
+            "imagePostFix": "test2",
+            "id": 0,
+            "options": {
+                "options": [
+                    "Option 1",
+                    "Option 2"
+                ],
+                "possibleIDs": [
+                    1,
+                    2
+                ]
+            }
+        },
+        {
+            "dialogue": "This is option 1, with no name, thus it defaults to the name variable.",
+            "image": "test",
+            "imagePostFix": "test2",
+            "id": 1,
+            "previousMessage": 0
+        },
+        {
+            "dialogue": "This is option 2, with no name, thus it defaults to the name variable.",
+            "image": "test",
+            "imagePostFix": "test2",
+            "id": 2,
+            "previousMessage": 0
+        },
+        {
+            "dialogue": "You should not have seen option 2 if you did not select it.",
+            "name": "Test prompt end",
+            "image": "test",
+            "imagePostFix": "test2",
+            "id": 3
+        }
+    ]
+}

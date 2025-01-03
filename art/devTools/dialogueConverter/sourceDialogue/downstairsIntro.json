@@ -1,0 +1,19 @@
+{
+    "dialogue": [
+        [
+            "You can still here crashing coming from the Kitchen. Should probably investigate that.",
+            "none",
+            ""
+        ],
+        [
+            "Eh. maybe later",
+            "char",
+            "shrug"
+        ],
+        [
+            "Yeah that seems like a good idea",
+            "char",
+            "nervous"
+        ]
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "dialogue": [
+        [
+            "Char gets to the kitchen, albeit slowly. and notices that Plexi and Micheal are fighting.",
+            "none",
+            ""
+        ],
+        [
+            "Give that back, you don't even know what it's for!",
+            "micheal",
+            "angry"
+        ],
+        [
+            "When it comes to you, its never anything good!",
+            "plexi",
+            "annoyed"
+        ],
+        [
+            "Char yells out, loud as he can",
+            "none",
+            ""
+        ],
+        [
+            "WILL YOU TWO KNOCK IT OFF?!",
+            "char",
+            "yell"
+        ],
+        [
+            "They both stop fighting.",
+            "none",
+            ""
+        ],
+        [
+            "You woke me up, what are you even fighting over?!",
+            "char",
+            "annoyed"
+        ],
+        [
+            "Well, Plexi took an important item i need to fix a mistake.",
+            "micheal",
+            "bored"
+        ],
+        [
+            "Yeah, like thats believable.",
+            "plexi",
+            "bored"
+        ],
+        [
+            "But i'm telling the truth!",
+            "micheal",
+            "annoyed"
+        ],
+        [
+            "Give it here, i'll take a look at it.",
+            "char",
+            "handOut"
+        ],
+        [
+            "*Char inspects the device*",
+            "char",
+            "device"
+        ],
+        [
+            "Well, from a glance, this is a harmless USB. Seems fine to give back.",
+            "char",
+            "deviceHoldOut"
+        ],
+        [
+            "*Grumbling*",
+            "plexi",
+            "annoyed"
+        ],
+        [
+            "Thank you.",
+            "micheal",
+            "insincere"
+        ],
+        [
+            "Char hands the device back. Michal promptly leaves through a portal.",
+            "none",
+            ""
+        ],
+        [
+            "Great. Now he might have the means to destroy the island.",
+            "plexi",
+            "annoyed"
+        ],
+        [
+            "I'm sure it's fine.",
+            "char",
+            "dismissive"
+        ],
+        [
+            "Now then, i'm gonna get started on some Hot Cocoa.",
+            "char",
+            "excited"
+        ]
+    ]
+}

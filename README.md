@@ -1,5 +1,14 @@
-This repo is a WIP
+> [!NOTE]
+> # NOTE TO SELF DO NOT PUBLICIZE THIS REPO, INSTEAD MAKE A SEPERATE PUBLIC REPO WITH A CLEAN COMMIT HISTORY!
 
-You will not see JACK SHIT till the demo releases!
+# Char's Adventure (Working Title)
 
-Deadline to release: TBD
+idk lmao.
+> [!NOTE]
+> # COMPILING
+
+All libraries you'll need are in the setup folder, this project is only coded for windows, with linux support coming later hopefully.
+
+### Why is there 2 project files in seperate formats?
+
+Well I know people like to cheat in games so this repo serves as both a way to compile the game and the save editor.

@@ -1,0 +1,18 @@
+{
+    "char": "None",
+    "dialogue": [
+        {
+            "dialogue": "Coming downstairs, Plexi seems to be missing.",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 0
+        },
+        {
+            "dialogue": "Uhhh..         Maybe he's in a different room?         hopefully.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "nervous",
+            "id": 1
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "char": "None",
+    "dialogue": [
+        {
+            "dialogue": "Char gets to the kitchen, albeit slowly. and notices that Plexi and Micheal are fighting.",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 0
+        },
+        {
+            "dialogue": "Give that back, you don't even know what it's for!",
+            "name": "Micheal",
+            "image": "dialoguePortraits/micheal",
+            "imagePostFix": "angry",
+            "id": 1
+        },
+        {
+            "dialogue": "When it comes to you, its never anything good!",
+            "name": "Plexi",
+            "image": "dialoguePortraits/plexi",
+            "imagePostFix": "annoyed",
+            "id": 2
+        },
+        {
+            "dialogue": "Char yells out, loud as he can",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 3
+        },
+        {
+            "dialogue": "WILL YOU TWO KNOCK IT OFF?!",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "yell",
+            "id": 4
+        },
+        {
+            "dialogue": "They both stop fighting.",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 5
+        },
+        {
+            "dialogue": "You woke me up, what are you even fighting over?!",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "annoyed",
+            "id": 6
+        },
+        {
+            "dialogue": "Well, Plexi took an important item i need to fix a mistake.",
+            "name": "Micheal",
+            "image": "dialoguePortraits/micheal",
+            "imagePostFix": "bored",
+            "id": 7
+        },
+        {
+            "dialogue": "Yeah, like thats believable.",
+            "name": "Plexi",
+            "image": "dialoguePortraits/plexi",
+            "imagePostFix": "bored",
+            "id": 8
+        },
+        {
+            "dialogue": "But i'm telling the truth!",
+            "name": "Micheal",
+            "image": "dialoguePortraits/micheal",
+            "imagePostFix": "annoyed",
+            "id": 9
+        },
+        {
+            "dialogue": "Give it here, i'll take a look at it.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "handOut",
+            "id": 10
+        },
+        {
+            "dialogue": "*Char inspects the device*",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "device",
+            "id": 11
+        },
+        {
+            "dialogue": "Well, from a glance, this is a harmless USB. Seems fine to give back.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "deviceHoldOut",
+            "id": 12
+        },
+        {
+            "dialogue": "*Grumbling*",
+            "name": "Plexi",
+            "image": "dialoguePortraits/plexi",
+            "imagePostFix": "annoyed",
+            "id": 13
+        },
+        {
+            "dialogue": "Thank you.",
+            "name": "Micheal",
+            "image": "dialoguePortraits/micheal",
+            "imagePostFix": "insincere",
+            "id": 14
+        },
+        {
+            "dialogue": "Char hands the device back. Michal promptly leaves through a portal.",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 15
+        },
+        {
+            "dialogue": "Great. Now he might have the means to destroy the island.",
+            "name": "Plexi",
+            "image": "dialoguePortraits/plexi",
+            "imagePostFix": "annoyed",
+            "id": 16
+        },
+        {
+            "dialogue": "I'm sure it's fine.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "dismissive",
+            "id": 17
+        },
+        {
+            "dialogue": "Now then, i'm gonna get started on some Hot Cocoa.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "excited",
+            "id": 18
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "dialogue": [
+        {
+            "id": 0,
+            "dialogue": "Test Dialogue 1"
+        },
+        {
+            "id": 1,
+            "dialogue": "Test Dialogue 2: This item is a test item.",
+            "itemSpecific": 1
+        },
+        {
+            "id": 2,
+            "dialogue": "Test Dialogue 3"
+        },
+        {
+            "id": 3,
+            "dialogue": "Rare Test Dialogue 4!"
+        },
+        {
+            "id": 4,
+            "dialogue": "Test Dialogue 5"
+        },
+        {
+            "id": 5,
+            "dialogue": "Test Dialogue 6: This item is a test item.",
+            "itemSpecific": 5
+        },
+        {
+            "id": 6,
+            "dialogue": "Test Dialogue 7"
+        },
+        {
+            "id": 7,
+            "dialogue": "Test Dialogue 8"
+        }
+    ],
+    "shopRows": [
+        [
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 1",
+                "price": 1.5,
+                "desc": "This is a test item",
+                "id": 0
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 2",
+                "price": 5,
+                "desc": "This is a test item, Lorem ipsum odor amet, consectetuer adipiscing elit. Cubilia faucibus cursus nostra tortor sociosqu vitae enim etiam. Faucibus ridiculus duis in; curae dolor eleifend. Turpis taciti erat ultricies elementum fringilla. Turpis adipiscing est nec primis odio sed. Lectus feugiat platea gravida ad phasellus conubia, ridiculus dignissim vivamus. Fames nullam inceptos varius massa hac ligula laoreet ipsum. Tristique euismod malesuada varius nullam at himenaeos augue libero condimentum.",
+                "quantity": 5,
+                "id": 1
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 3",
+                "price": 15,
+                "desc": "This is a test item",
+                "quantity": 10,
+                "id": 2
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 4",
+                "price": 30,
+                "desc": "This is a test item",
+                "quantity": 15,
+                "id": 3
+            }
+        ],
+        [
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 5",
+                "price": 1000,
+                "desc": "This is a test item",
+                "quantity": 20,
+                "id": 4
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 6",
+                "price": 10000,
+                "desc": "This is a test item",
+                "quantity": 25,
+                "id": 5
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 7",
+                "price": 100000,
+                "desc": "This is a test item",
+                "quantity": 30,
+                "id": 6
+            },
+            {
+                "image": "shop/testItem",
+                "name": "Test Item 8",
+                "price": 1000000,
+                "desc": "This is a test item",
+                "quantity": 100,
+                "id": 7
+            }
+        ]
+    ]
+}

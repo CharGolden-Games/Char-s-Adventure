@@ -1,0 +1,19 @@
+{
+    "dialogue": [
+        [
+            "Try using this file to be converted to the new format",
+            "char",
+            "excite"
+        ],
+        [
+            "You should be able to properly import it into the game afterwards.",
+            "char",
+            "point"
+        ],
+        [
+            "This is an example of dialogue without a postfix",
+            "char",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "dialogue": [
+        [
+            "*Char peacefully sleeping away the day",
+            "none",
+            ""
+        ],
+        [
+            "Crash! Bang! Etc.!",
+            "none",
+            ""
+        ],
+        [
+            "Ugh...... What the hell?",
+            "char",
+            "tired-annoyed"
+        ],
+        [
+            "More chaos from the kitchen...",
+            "none",
+            ""
+        ],
+        [
+            "Alright.               Someone's boutta die.",
+            "char",
+            "annoyed"
+        ],
+        [
+            "Char goes to investigate the strange noises",
+            "none",
+            ""
+        ],
+        [
+            "Hello?",
+            "char",
+            "tired-annoyed"
+        ],
+        [
+            "Plexi are you tryna fish something out the sink again?",
+            "char",
+            "annoyed"
+        ],
+        [
+            "Trevor are you finally home?",
+            "char",
+            "annoyed"
+        ],
+        [
+            "No Response",
+            "none",
+            ""
+        ],
+        [
+            "Alright this is getting REALLY freaky.",
+            "char",
+            "scared"
+        ]
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "name": "Custom Shop Character",
+    "dialogue": [
+        {
+            "dialogue": "This is where custom dialogue goes, This version of the dialogue format does not support options or changing the name dynamically.",
+            "image": "shop/test",
+            "imagePostFix": "test2",
+            "id": 0
+        },
+        {
+            "dialogue": "This is the confirm text: Confirm Purchase?",
+            "image": "shop/test",
+            "imagePostFix": "plead",
+            "id": 1,
+            "isSelectionMessage": true
+        },
+        {
+            "dialogue": "Minus a selection message, these messages are randomly selected!",
+            "image": "shop/test",
+            "imagePostFix": "test2",
+            "id": 2
+        }
+    ],
+    "shopRows": [
+        [
+            {
+                "image": "shop/testImage",
+                "name": "Test item",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 10,
+                "quantity": 100,
+                "id": 0
+            },
+            {
+                "image": "shop/testImage",
+                "name": "Test item 2",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 100,
+                "quantity": 1000,
+                "id": 1
+            },
+            {
+                "image": "shop/testImage",
+                "name": "Test item 3",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 10000,
+                "quantity": 10000,
+                "id": 2
+            },
+            {
+                "image": "shop/testImage",
+                "name": "Test item 4",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 100000,
+                "quantity": 100000,
+                "id": 3
+            }
+        ],
+        [
+            {
+                "image": "shop/testImage",
+                "name": "Test item",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 100,
+                "quantity": 100,
+                "id": 4
+            },
+            {
+                "image": "shop/testImage",
+                "name": "Test item 2",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 1000,
+                "quantity": 1000,
+                "id": 5
+            },
+            {
+                "image": "shop/testImage",
+                "name": "Test item 3",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 10000,
+                "quantity": 10000,
+                "id": 6
+            },
+            {
+                "image": "shop/testImage",
+                "name": "Test item 4",
+                "desc": "This is an item meant to show how to construct a shop item",
+                "price": 100000,
+                "quantity": 100000,
+                "id": 7
+            }
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dialogue": [
+        [
+            "The next day...",
+            "none",
+            ""
+        ],
+        [
+            "It's...",
+            "none",
+            ""
+        ],
+        [
+            "Strangely quiet...?",
+            "none",
+            ""
+        ],
+        [
+            "Huh... I know usually without Micheal's interventions, its a bit quiet, but... this is a different level.",
+            "char",
+            "question"
+        ],
+        [
+            "Guess i'll head downstairs and check things out.",
+            "char",
+            "shrug"
+        ]
+    ]
+}

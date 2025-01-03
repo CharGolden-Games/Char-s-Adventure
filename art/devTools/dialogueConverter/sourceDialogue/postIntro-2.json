@@ -1,0 +1,14 @@
+{
+    "dialogue": [
+        [
+            "Coming downstairs, Plexi seems to be missing.",
+            "none",
+            ""
+        ],
+        [
+            "Uhhh..         Maybe he's in a different room?         hopefully.",
+            "char",
+            "nervous"
+        ]
+    ]
+}

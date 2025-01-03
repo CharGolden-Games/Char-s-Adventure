@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Smith_Tridite.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="108" height="191" frameX="-3" frameY="-10" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0001" x="113" y="0" width="107" height="198" frameX="-3" frameY="-4" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0002" x="113" y="0" width="107" height="198" frameX="-3" frameY="-4" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0003" x="225" y="0" width="109" height="196" frameX="-2" frameY="-5" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0004" x="225" y="0" width="109" height="196" frameX="-2" frameY="-5" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0005" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0006" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0007" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0008" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0009" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0010" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0011" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0012" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0013" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0014" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0015" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0016" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Idle0017" x="339" y="0" width="109" height="201" frameX="0" frameY="0" frameWidth="111" frameHeight="202"/>
+	<SubTexture name="Talk0000" x="453" y="0" width="149" height="205" frameX="-8" frameY="0" frameWidth="157" frameHeight="205"/>
+	<SubTexture name="Talk0001" x="453" y="0" width="149" height="205" frameX="-8" frameY="0" frameWidth="157" frameHeight="205"/>
+	<SubTexture name="Talk0002" x="607" y="0" width="147" height="202" frameX="-4" frameY="-3" frameWidth="157" frameHeight="205"/>
+	<SubTexture name="Talk0003" x="607" y="0" width="147" height="202" frameX="-4" frameY="-3" frameWidth="157" frameHeight="205"/>
+	<SubTexture name="Talk0004" x="759" y="0" width="147" height="201" frameX="0" frameY="-3" frameWidth="147" frameHeight="201"/>
+	<SubTexture name="Talk0005" x="759" y="0" width="147" height="201" frameX="0" frameY="-3" frameWidth="147" frameHeight="201"/>
+	<SubTexture name="Talk_loop0000" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0001" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0002" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0003" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0004" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0005" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0006" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0007" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0008" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0009" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0010" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0011" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0012" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0013" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0014" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0015" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0016" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0017" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0018" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0019" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0020" x="0" y="210" width="147" height="201"/>
+	<SubTexture name="Talk_loop0021" x="0" y="210" width="147" height="201"/>
+	<SubTexture name="Talk_loop0022" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0023" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0024" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0025" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0026" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0027" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0028" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0029" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0030" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0031" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0032" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0033" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0034" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0035" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0036" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0037" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0038" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0039" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0040" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0041" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0042" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0043" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0044" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0045" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0046" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0047" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0048" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0049" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0050" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0051" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0052" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0053" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0054" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0055" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0056" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0057" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0058" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0059" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0060" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0061" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0062" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0063" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0064" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0065" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0066" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0067" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0068" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0069" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0070" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0071" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0072" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0073" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0074" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0075" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0076" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0077" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0078" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0079" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0080" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0081" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0082" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0083" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0084" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0085" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0086" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0087" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0088" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0089" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0090" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0091" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0092" x="0" y="210" width="147" height="201"/>
+	<SubTexture name="Talk_loop0093" x="0" y="210" width="147" height="201"/>
+	<SubTexture name="Talk_loop0094" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0095" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0096" x="0" y="210" width="147" height="201"/>
+	<SubTexture name="Talk_loop0097" x="0" y="210" width="147" height="201"/>
+	<SubTexture name="Talk_loop0098" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0099" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0100" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0101" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0102" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0103" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0104" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0105" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0106" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0107" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0108" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0109" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0110" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0111" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0112" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0113" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0114" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0115" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0116" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0117" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0118" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0119" x="759" y="0" width="147" height="201"/>
+	<SubTexture name="Talk_loop0120" x="759" y="0" width="147" height="201"/>
+</TextureAtlas>

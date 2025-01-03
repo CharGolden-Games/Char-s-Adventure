@@ -1,0 +1,92 @@
+{
+    "char": "None",
+    "dialogue": [
+        {
+            "dialogue": "*Char peacefully sleeping away the day",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 0
+        },
+        {
+            "dialogue": "Crash! Bang! Etc.!",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 1
+        },
+        {
+            "dialogue": "Ugh...... What the hell?",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "tired-annoyed",
+            "id": 2
+        },
+        {
+            "dialogue": "More chaos from the kitchen...",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 3
+        },
+        {
+            "dialogue": "Alright.               Someone's boutta die.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "annoyed",
+            "id": 4
+        },
+        {
+            "dialogue": "Char goes to investigate the strange noises",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 5,
+            "options": {
+                "options": [
+                    "See if anyone's there?",
+                    "Maybe it's Plexi?",
+                    "Maybe it's Trevor?"
+                ],
+                "possibleIDs": [
+                    6,
+                    7,
+                    8
+                ]
+            }
+        },
+        {
+            "dialogue": "Hello?",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "tired-annoyed",
+            "id": 6,
+            "previousMessage": 5
+        },
+        {
+            "dialogue": "Plexi are you tryna fish something out the sink again?",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "annoyed",
+            "id": 7,
+            "previousMessage": 5
+        },
+        {
+            "dialogue": "Trevor are you finally home?",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "annoyed",
+            "id": 8,
+            "previousMessage": 5
+        },
+        {
+            "dialogue": "No Response",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 9
+        },
+        {
+            "dialogue": "Alright this is getting REALLY freaky.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "scared",
+            "id": 10
+        }
+    ]
+}

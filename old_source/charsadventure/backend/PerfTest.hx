@@ -1,0 +1,94 @@
+package charsadventure.backend;
+
+class PerfTest
+{
+	public inline function lag_the_game_out()
+	{
+		#if PERFORMANCE_TEST
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		trace('LAG THE GAME OUT CMON LETS LAG IT OUT!!!!!!');
+		#end
+	}
+}

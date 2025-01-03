@@ -1,0 +1,1 @@
+./CharsAdventure -save_edit

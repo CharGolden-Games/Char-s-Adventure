@@ -1,0 +1,69 @@
+{
+  "name": "Char (Null Fallback)",
+  "startHealth": 3,
+  "defense": 1,
+  "icon": "char",
+  "image": "characters/charPlayer",
+  "animations": [
+    {
+      "anim": "IdleMic0",
+      "name": "idle",
+      "fps": 24,
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "IdleMicRight",
+      "name": "idle_right",
+      "fps": 24,
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "WalkLeftMic",
+      "name": "walk_left",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "WalkRightMic",
+      "name": "walk_right",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "SingLeft0",
+      "name": "attack",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "SingUp0",
+      "name": "jump",
+      "fps": 24,
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ]
+    }
+  ]
+}

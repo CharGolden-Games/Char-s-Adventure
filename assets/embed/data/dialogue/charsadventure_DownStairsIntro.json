@@ -1,0 +1,37 @@
+{
+    "char": "None",
+    "dialogue": [
+        {
+            "dialogue": "You can still here crashing coming from the Kitchen. Should probably investigate that.",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 0,
+            "options": {
+                "options": [
+                    "Nah.",
+                    "Yeah"
+                ],
+                "possibleIDs": [
+                    1,
+                    2
+                ]
+            }
+        },
+        {
+            "dialogue": "Eh. maybe later",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "shrug",
+            "id": 1,
+            "previousMessage": 0
+        },
+        {
+            "dialogue": "Yeah that seems like a good idea",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "nervous",
+            "id": 2,
+            "previousMessage": 0
+        }
+    ]
+}

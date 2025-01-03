@@ -1,0 +1,30 @@
+{
+    "settings": [
+        {
+            "title": "Test Option Bool",
+            "icon": "bitchAssets/charIcon",
+            "type": "bool",
+            "defaultValue": false
+        },
+        {
+            "title": "Test Option Enum",
+            "icon": "bitchAssets/charIcon",
+            "type": "enum",
+            "defaultValue": "Test1",
+            "enumValues": [
+                "Test1",
+                "Test2",
+                "Test3"
+            ]
+        },
+        {
+            "title": "Test Option Float",
+            "icon": "bitchAssets/charIcon",
+            "type": "float",
+            "defaultValue": 1,
+            "min": 0,
+            "max": 1,
+            "precision": 0.1
+        }
+    ]
+}

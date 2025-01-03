@@ -1,0 +1,23 @@
+{
+        "char": "Char",
+        "dialogue": [
+                {
+                        "dialogue": "Hehe.",
+                        "image": "char",
+                        "imagePostfix": "smug",
+                        "id": 0
+                },
+                {
+                        "dialogue": "Shit.",
+                        "image": "char",
+                        "imagePostfix": "smugNervous",
+                        "id": 1
+                },
+                {
+                        "dialogue": "ASOASKSAKASOKSAOAKOKAS",
+                        "image": "char",
+                        "imagePostfix": "goofy",
+                        "id": 2
+                }
+        ]
+}

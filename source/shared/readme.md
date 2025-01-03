@@ -1,0 +1,1 @@
+This folder is for classes that are used by both the main game, and the save editor, and by the end of development should keep to a basic by type folder structure (Refer to source/FOLDERSTRUCTURE.txt for an example of what i mean)

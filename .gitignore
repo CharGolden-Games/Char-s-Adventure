@@ -1,0 +1,13 @@
+# Just stuff related to building the thing
+export/
+export_save-editor/
+temp/
+lastBuildTimeInSeconds.txt
+buildTime.log
+# ya dont need my haxe libraries folder i assure you
+.haxelib/
+gameKey/*
+!gameKey/dummy
+
+# api pages shit
+docs/doc.xml

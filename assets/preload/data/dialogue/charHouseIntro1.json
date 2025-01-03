@@ -1,0 +1,41 @@
+{
+        "char": "Char",
+        "dialogue": [
+                {
+                        "dialogue": "/iSnoring Noises",
+                        "image": "char",
+                        "imagePostfix": "sleep",
+                        "id": 0
+                },
+                {
+                        "dialogue": "/iFrom Outside the door",
+                        "image": "none",
+                        "imagePostfix": "",
+                        "id": 1
+                },
+                {
+                        "dialogue": "Hehe.. Shh!",
+                        "image": "none",
+                        "imagePostfix": "",
+                        "id": 2
+                },
+                {
+                        "dialogue": "Don't wake him up!",
+                        "image": "none",
+                        "imagePostfix": "",
+                        "id": 3
+                },
+                {
+                        "dialogue": "/iMore Snickering",
+                        "image": "none",
+                        "imagePostfix": "",
+                        "id": 4
+                },
+                {
+                        "dialogue": "No, i don't have the time for your shenagins..",
+                        "image": "char",
+                        "imagePostfix": "sleep",
+                        "id": 5
+                }
+        ]
+}

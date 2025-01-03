@@ -1,0 +1,37 @@
+{
+    "char": "None",
+    "dialogue": [
+        {
+            "dialogue": "The next day...",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 0
+        },
+        {
+            "dialogue": "It's...",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 1
+        },
+        {
+            "dialogue": "Strangely quiet...?",
+            "name": "None",
+            "image": "dialoguePortraits/none",
+            "id": 2
+        },
+        {
+            "dialogue": "Huh... I know usually without Micheal's interventions, its a bit quiet, but... this is a different level.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "question",
+            "id": 3
+        },
+        {
+            "dialogue": "Guess i'll head downstairs and check things out.",
+            "name": "Char",
+            "image": "dialoguePortraits/char",
+            "imagePostFix": "shrug",
+            "id": 4
+        }
+    ]
+}

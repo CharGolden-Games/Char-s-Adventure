@@ -1,0 +1,71 @@
+{
+        "char": "npc01",
+        "dialogue": [
+                {
+                        "dialogue": "Freaky Friday Morning",
+                        "image": "npc01",
+                        "imagePostfix": "smug",
+                        "id": 0
+                },
+                {
+                        "dialogue": "Shit, I mean,",
+                        "image": "npc01",
+                        "imagePostfix": "smugNervous",
+                        "id": 1
+                },
+                {
+                        "dialogue": "Friday Night Freakin'",
+                        "image": "npc01",
+                        "imagePostfix": "smug",
+                        "id": 2
+                },
+                {
+                        "dialogue": "Wait wait i mean-",
+                        "image": "npc01",
+                        "imagePostfix": "oh-shit",
+                        "id": 3
+                },
+                {
+                        "dialogue": "Shut up.",
+                        "image": "char",
+                        "imagePostfix": "annoyed",
+                        "id": 4
+                },
+                {
+                        "dialogue": "",
+                        "image": "npc01",
+                        "imagePostfix": "sad",
+                        "id": 5
+                },
+                {
+                        "dialogue": "Hey.",
+                        "image": "bfposter",
+                        "imagePostfix": "wave",
+                        "id": 6
+                },
+                {
+                        "dialogue": "!",
+                        "image": "char",
+                        "imagePostfix": "shocked",
+                        "id": 7
+                },
+                {
+                        "dialogue": "HOLY SHIT IS THAT JSON?!",
+                        "image": "char",
+                        "imagePostfix": "shocked",
+                        "id": 8
+                },
+                {
+                        "dialogue": "Yes.",
+                        "image": "bfposter",
+                        "imagePostfix": "smug",
+                        "id": 9
+                },
+                {
+                        "dialogue": "",
+                        "image": "explode",
+                        "imagePostfix": "",
+                        "id": 10
+                }
+        ]
+}

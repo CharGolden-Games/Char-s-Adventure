@@ -1,0 +1,1 @@
+null.png has an XML to prevent errors with getting xml data.

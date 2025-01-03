@@ -1,0 +1,46 @@
+{
+    "name": "Smith (Tridite Form)",
+    "image": "characters/npcs/Smith_Tridite",
+    "animations": [
+        {
+            "anim": "Idle",
+            "name": "idle",
+            "fps": 24,
+            "loop": true,
+            "offsets": [
+                0,
+                0
+            ]
+        },
+        {
+            "anim": "Talk",
+            "name": "talk",
+            "fps": 24,
+            "loop": true,
+            "offsets": [
+                0,
+                0
+            ]
+        },
+        {
+            "anim": "Talk_loop",
+            "name": "talk_hold",
+            "fps": 24,
+            "loop": true,
+            "offsets": [
+                0,
+                0
+            ]
+        }
+    ],
+    "type": 1,
+    "npcParams": {
+        "dialogue": [
+            {
+                "id": 0,
+                "dialogue": "Hey."
+            }
+        ],
+        "shopFile": "testNpc-1"
+    }
+}

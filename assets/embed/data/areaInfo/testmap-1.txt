@@ -1,0 +1,8 @@
+You shouldn't be here. Well while you are mind testing the game for me? (reminder to self this is right aligned.)
+List of features to make/test (That i can think of.):
+
+Enemies -
+
+Shop NPC's -
+
+Actual Map Objects -

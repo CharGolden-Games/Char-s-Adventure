@@ -1,0 +1,68 @@
+{
+        "char": "Char",
+        "dialogue": [
+                {
+                        "dialogue": "Shit.",
+                        "name": "Char",
+                        "image": "char",
+                        "imagePostfix": "dizzy",
+                        "id": 0
+                },
+                {
+                        "dialogue": "What?",
+                        "name": "Plexi",
+                        "image": "plexi",
+                        "imagePostfix": "worried",
+                        "id": 1
+                },
+                {
+                        "dialogue": "The file returned null!",
+                        "name": "Char",
+                        "image": "char",
+                        "imagePostfix": "angry-shout",
+                        "id": 2
+                },
+                {
+                        "dialogue": "...",
+                        "name": "Plexi",
+                        "image": "plexi",
+                        "imagePostfix": "confused",
+                        "id": 3
+                },
+                {
+                        "dialogue": "Huh?",
+                        "name": "Plexi",
+                        "image": "plexi",
+                        "imagePostfix": "confused",
+                        "id": 4
+                },
+                {
+                        "dialogue": "This chat between you and me is actually part of an error handler, and the file &FILE& doesn't actually exist.",
+                        "name": "Char",
+                        "image": "char",
+                        "imagePostfix": "dissapointed",
+                        "id": 5
+                },
+                {
+                        "dialogue": "I'm still lost...",
+                        "name": "Plexi",
+                        "image": "plexi",
+                        "imagePostfix": "dizzy",
+                        "id": 6
+                },
+                {
+                        "dialogue": "We arent actually supposed to be saying any of this.",
+                        "name": "Char",
+                        "image": "char",
+                        "imagePostfix": "dissapointed",
+                        "id": 7
+                },
+                {
+                        "dialogue": "Ugh... this doesn't make sense!",
+                        "name": "Plexi",
+                        "image": "plexi",
+                        "imagePostfix": "dizzy",
+                        "id": 8
+                }
+        ]
+}
