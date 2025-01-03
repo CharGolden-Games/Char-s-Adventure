@@ -58,7 +58,7 @@ Then simply run `lime test windows`!
 - Make Plexi's assets
 - Make Anny's assets
 - Make Igni's assets
-- Make Smith's assets
+- Finish Smith's assets
 - Make Tridite Queen's assets
 - Make Annabelle's assets
 - Make Clement's assets
