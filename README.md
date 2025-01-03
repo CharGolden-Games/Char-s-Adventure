@@ -47,14 +47,24 @@ Then simply run `lime test windows`!
 ### -------- General --------
 - Clean up the Repo a bit
 - Finish the demo
+### -------- Objects/Classes/Visuals --------
 - Finish the NPC Class
 - Finish the Shop UI and NPC link
+- Finish HUD
+- Make Battle System
 ### -------- Characters --------
 - Finish Char's assets
-- Finish Trevor's assets
-- Finish Plexi's assets
+- Make Trevor's assets
+- Make Plexi's assets
+- Make Anny's assets
+- Make Igni's assets
+- Make Smith's assets
+- Make Tridite Queen's assets
+- Make Annabelle's assets
+- Make Clement's assets
+- Make Micheal's assets
 ### -------- Areas --------
-- Finish Char Isle
-- Finish Milton's Creaks
-- Finish Micheal's Forest
-- Finish Tridite City
+- Make Char Isle
+- Make Milton's Creaks
+- Make Micheal's Forest
+- Make Tridite City
