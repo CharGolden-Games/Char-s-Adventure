@@ -1,8 +1,13 @@
-# Char's Adventure
+# Char's Adventure [DEMO]
 
 ## DESCRIPTION
 
-Welcome to Char's first game! Char ends up in a WACKY situation kickstarted by Micheal (ugh) taking Char's microphone!
+Welcome to Char's first game! Char ends up in a WACKY situation kickstarted by Micheal (ugh) taking Char's microphone! 
+
+This demo will contain 4 areas
+
+The starting areas (Char Isle | Micheal's Forest)
+Half of act 1 (Tridite City | Milton's Creaks)
 
 ## CREDITS
 
@@ -35,3 +40,20 @@ Then simply run `lime test windows`!
 `-debug` | Forces debug options on.
 
 `-livereload` | Makes a funny message appear on run (Debug builds only, auto triggers with `lime test <platform> -debug`)
+
+## TODO LIST (Demo)
+
+### -------- General --------
+- Clean up the Repo a bit
+- Finish the demo
+- Finish the NPC Class
+- Finish the Shop UI and NPC link
+### -------- Characters --------
+- Finish Char's assets
+- Finish Trevor's assets
+- Finish Plexi's assets
+### -------- Areas --------
+- Finish Char Isle
+- Finish Milton's Creaks
+- Finish Micheal's Forest
+- Finish Tridite City
