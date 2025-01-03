@@ -20,7 +20,7 @@ Welcome to Char's first game! Char ends up in a WACKY situation kickstarted by M
 
 Install at least [Haxe 4.2.5](https://haxe.org/) and then run the 2 batch files in [setup](setup/)
 
-Then simply run lime test windows!
+Then simply run `lime test windows`!
 
 ## Switches (Compilation only)
 
