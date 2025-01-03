@@ -8,7 +8,7 @@ Welcome to Char's first game! Char ends up in a WACKY situation kickstarted by M
 
 [ninjamuffin99](https://ninjamuffin99.newgrounds.com/) - 1 of the main inspirations behind making a game. Programmed Friday Night Funkin', a major inspiration for me.
 
-[evilsk8er](https://evilsk8r.newgrounds.com/)/[PhantomArcade](https://phantomarcade.newgrounds.com/) - Art Inspirations. Made the art for Friday Night Funkin', Which is where my art started.
+[evilsk8er](https://evilsk8r.newgrounds.com/)/[PhantomArcade](https://phantomarcade.newgrounds.com/) - Art Inspirations. Made/Animated the art for Friday Night Funkin', Which is where my art started.
 
 [KawaiSprite](https://kawaisprite.newgrounds.com/) - Main musical inspiration (I have yet to make any tracks but if I had, this is where it started.)
 
