@@ -52,7 +52,7 @@ Then simply run `lime test windows`!
 - Finish the Shop UI and NPC link
 - Finish HUD
 - Make Battle System
-### -------- Characters --------
+### -------- Art: Characters --------
 - Finish Char's assets
 - Make Trevor's assets
 - Make Plexi's assets
@@ -63,6 +63,8 @@ Then simply run `lime test windows`!
 - Make Annabelle's assets
 - Make Clement's assets
 - Make Micheal's assets
+### -------- Art: Objects --------
+Nothing yet!
 ### -------- Areas --------
 - Make Char Isle
 - Make Milton's Creaks
