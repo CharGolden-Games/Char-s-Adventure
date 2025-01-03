@@ -14,7 +14,7 @@ Welcome to Char's first game! Char ends up in a WACKY situation kickstarted by M
 
 ### Friday Night Funkin' Community
 
-Psych Engine | Kade Engine | Universe Engine | VS. Impostor | Mario's Madness - Main Kickstart, and inspirations for wanting to program in HaxeFlixel
+[Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) | [Kade Engine](https://github.com/KadeArchive/Kade-Engine) | [Universe Engine](https://github.com/VideoBotYT/Universe-Engine) | [VS. Impostor](https://gamebanana.com/mods/55652) | [Mario's Madness](https://gamebanana.com/mods/359554) - Main Kickstart, and inspirations for wanting to program in HaxeFlixel
 
 ## COMPILING
 
