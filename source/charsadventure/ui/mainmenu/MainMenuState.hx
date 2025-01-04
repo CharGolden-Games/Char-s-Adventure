@@ -59,7 +59,7 @@ class MainMenuState extends BaseState
 					case 'Save Editor':
 						RunSaveEditor.runSaveEditor();
 					case 'exit':
-						Save.save_Save();
+						Save.save_Saves();
 						System.exit(0);
 				}
 			});

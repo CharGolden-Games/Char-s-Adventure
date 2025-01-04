@@ -158,17 +158,17 @@ class PlayState extends BaseState
 		{
 			case 1:
 				Save.save1.dollars += Save.save1.dollars + add;
-				Save.save_Save();
+				Save.save_Saves();
 				return Save.save1.dollars;
 
 			case 2:
 				Save.save2.dollars += Save.save2.dollars + add;
-				Save.save_Save();
+				Save.save_Saves();
 				return Save.save2.dollars;
 
 			default:
 				Save.save0.dollars = Save.save0.dollars + add;
-				Save.save_Save();
+				Save.save_Saves();
 				return Save.save0.dollars;
 		}
 	}
@@ -185,22 +185,22 @@ class PlayState extends BaseState
 		{
 			case 0:
 				Save.save0.gold = Save.save0.gold + add;
-				Save.save_Save();
+				Save.save_Saves();
 				return Save.save0.gold;
 
 			case 1:
 				Save.save1.gold = Save.save1.gold + add;
-				Save.save_Save();
+				Save.save_Saves();
 				return Save.save1.gold;
 
 			case 2:
 				Save.save2.gold = Save.save2.gold + add;
-				Save.save_Save();
+				Save.save_Saves();
 				return Save.save2.gold;
 		}
 
 		Save.save0.gold = Save.save0.gold + add;
-		Save.save_Save();
+		Save.save_Saves();
 		return Save.save0.gold;
 	}
 

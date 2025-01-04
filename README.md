@@ -24,7 +24,7 @@ Half of act 1 (Tridite City | Milton's Creaks)
 
 ## COMPILING
 
-Install at least [Haxe 4.2.5](https://haxe.org/) and then run the 2 batch files in [setup](setup/)
+Install at least [Haxe 4.3.0](https://haxe.org/) (for the `??` operator) and then run the 2 batch files in [setup](setup/)
 
 Then simply run `lime test windows`!
 

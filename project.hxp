@@ -205,7 +205,6 @@ class Project extends HXProject {
         #if DISABLE_CORE_DEBUGGER setHaxedef('FLX_NO_DEBUG'); #end
         setHaxedef('FLX_NO_FOCUS_LOST_SCREEN');
         setHaxedef('message.reporting', 'pretty');
-        setHaxedef('no-deprecation-warnings'); //PLEASE PISS OFF.
 		setHaxedef('HXCPP_CHECK_POINTER');
 		setHaxedef('HXCPP_STACK_LINE');
 		setHaxedef('HXCPP_STACK_TRACE');

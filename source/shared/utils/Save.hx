@@ -432,6 +432,7 @@ class Save
 	/**
 	 * Redirects to save_Saves() because im fucking dumb and left a typo in.
 	 */
+	@:deprecated('`save_Save()` is a typo, use `save_Saves()`')
 	public static function save_Save():Void
 	{
 		save_Saves();

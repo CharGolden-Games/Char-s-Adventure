@@ -197,7 +197,7 @@ class CheatState extends FlxState
 		Save.globalSave.unlockedRTCheat = true;
 		Save.globalSave.unlockedRAMCheat = true;
 
-		Save.save_Save();
+		Save.save_Saves();
 	}
 
 	function changeSelection(?change:Int = 0):Void
