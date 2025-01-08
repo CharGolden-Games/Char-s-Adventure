@@ -1,3 +1,4 @@
+// These are libraries shared by all parts of the game.
 #if !macro
 #if lime
 import flixel.FlxG;
