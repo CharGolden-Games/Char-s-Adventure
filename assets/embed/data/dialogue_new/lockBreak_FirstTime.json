@@ -1,0 +1,79 @@
+{
+    "char": "char",
+    "dialogue": [
+        {
+            "suffix": "thinkie",
+            "text": "..."
+        },
+        {
+            "char": "plexi",
+            "suffix": "confuse",
+            "text": "Char, what are you doing?"
+        },
+        {
+            "suffix": "thinkie",
+            "text": "Thinking about how to open this door here."
+        },
+        {
+            "char": "trevor",
+            "suffix": "excite",
+            "text": "I have an idea!"
+        },
+        {
+            "char": "none",
+            "text": "* Trevor proceeds to splash some water on the door's lock"
+        },
+        {
+            "suffix": "confuse",
+            "text": "how the hell do you think that's gonna wor-"
+        },
+        {
+            "char": "none",
+            "text": "* The lock breaks off, and the door opens"
+        },
+        {
+            "suffix": "confuse",
+            "text": "!",
+            "alt": {
+                "char": "plexi",
+                "suffix": "confuse",
+                "text": "!"
+            }
+        },
+        {
+            "options": [
+                "How did you...?",
+                "Trevor, that was fucking cool.",
+                "Is this one of Micheal's locks?"
+            ]
+        },
+        {
+            "char": "trevor",
+            "suffix": "smug",
+            "text": "Had a feeling it looked familiar, it's one of Micheal's locks!"
+        },
+        {
+            "char": "plexi",
+            "suffix": "sigh",
+            "text": "Admittedly yeah it was.",
+            "alt": {
+                "char": "trevor",
+                "suffix": "smug",
+                "text": "Of course it was."
+            }
+        },
+        {
+            "char": "trevor",
+            "suffix": "confuse",
+            "text": "Yeah.. how did you know?"
+        },
+        {
+            "char": "plexi",
+            "suffix": "impatient",
+            "text": "Anyway, at least the door's open now."
+        },
+        {
+            "text": "Yeah, what are we waiting for? Let's head in already!"
+        }
+    ]
+}
