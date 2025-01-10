@@ -56,4 +56,19 @@ class GameLogic
 
 		return money * bonus;
 	}
+
+	/**
+	 * The megaphone has a chance to trigger this effect.
+	 * @return String
+	 */
+	public static function confuseEveryone():String
+	{
+		/**
+		 * for (activeCharacter in BattleHandler.activeCharacters)
+		 * {
+		 * 		activeCharacter.confusion = true;
+		 * }
+		 */
+		return 'Successfully Confused Everyone!';
+	}
 }
