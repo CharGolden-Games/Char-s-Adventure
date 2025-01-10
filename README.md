@@ -1,2 +1,1 @@
-# Char-s-Adventure
-The public Char's Adventure Source Code!
+# This branch is used for hosting information about Char's Adventure!
