@@ -1,0 +1,6 @@
+[submodule "source/cre"]
+	path = source/cre
+	url = https://github.com/CharGoldenYT/CRE-module.git
+[submodule "source/adventure_engine"]
+	path = source/adventure_engine
+	url = https://github.com/CharGoldenYT/Adventure-Engine.git
